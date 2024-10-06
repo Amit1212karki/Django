@@ -1,0 +1,6 @@
+// another file
+sum_result = add(10, 5)  # This will add 10 and 5 
+print(f"Sum: {sum_result}")  # Output: Sum: 15
+
+difference_result = subtract(10, 5)  # This will subtract 5 from 10
+print(f"Difference: {difference_result}")  # Output: Difference: 5
