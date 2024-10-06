@@ -1,6 +1,10 @@
-// this is comment
+//This is a comment
 def add():
   x = 1
   y = 5
   z = x+y
   print(z)
+
+def add(x,y): // second commit
+  print(x+y)
+add(1,5)
